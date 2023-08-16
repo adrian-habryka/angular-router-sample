@@ -1,7 +1,10 @@
 # AngularRouterSample
 
-https://angular.io/guide/router-tutorial
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
+
+## Tutorial link
+
+https://angular.io/guide/router-tutorial
 
 ## Development server
 
